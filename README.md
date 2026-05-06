@@ -1,16 +1,35 @@
-# React + Vite
+# 🚀 Agency AI - Smart Marketing Automation Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Agency AI is a modern web application designed to automate and optimize digital marketing strategies using Artificial Intelligence. It helps businesses manage campaigns, analyze performance, and improve conversion rates from a single platform.
 
-Currently, two official plugins are available:
+Live Demo: https://agencyai-ten.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+-  AI-powered marketing automation
+-  Campaign performance tracking
+-  Data-driven insights and analytics
+-  Integration-ready architecture
+-  User-friendly UI/UX design
+-  Fast and responsive (deployed on Vercel)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js / Next.js
+- **Styling:** Tailwind CSS / CSS
+- **Deployment:** Vercel
+- **Version Control:** Git & GitHub
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+
+### 2 Navigate to project folder
+cd your-repo-name
+
+3️⃣ Install dependencies
+npm install
